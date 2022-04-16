@@ -26,7 +26,7 @@ Hello, I'm YisuiDenghua（一穂灯花）, you can call me yisui［i:suɪ].
   [![OS:NixOS](https://img.shields.io/badge/OS-NixOS-blue?style=flat-square&logo=nixos)](https://nixos.org)
   [![OS:OpenBSD](https://img.shields.io/badge/OS-OpenBSD-yellow?style=flat-square&logo=openbsd)](https://openbsd.org)
   [![OS:macOS](https://img.shields.io/badge/OS-macOS-black?style=flat-square&logo=apple)](https://www.apple.com/mac/)
-  [![OS:Wechat](https://img.shields.io/badge/OS-Wechat-success?style=flat-square&logo=wechat)](https:/weixin.qq.com)
+  [![IM:Wechat](https://img.shields.io/badge/IM-Wechat-success?style=flat-square&logo=wechat)](https:/weixin.qq.com)
   [![Browser:Firefox](https://img.shields.io/badge/Browser-Firefox-red?style=flat-square&logo=firefox)](https://mozilla.org)
   [![DE:GNOME](https://img.shields.io/badge/DE-GNOME-blue?style=flat-square&logo=GNOME)](https://kde.org)
   [![DE:Plasma](https://img.shields.io/badge/DE-Plasma-blue?style=flat-square&logo=KDE)](https://gnome.org)
