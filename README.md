@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm YisuiDenghua（一穂灯花）, you can call me yisui［i:suɪ].
+I'm YisuiDenghua（一穂灯花）, you can call me yisui［i:suɪ].
 
 - 🌱 I’m currently learning Mathematics, Nix, Python.
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
