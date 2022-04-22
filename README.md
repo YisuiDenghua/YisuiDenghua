@@ -34,3 +34,15 @@ I'm YisuiDenghua（一穂灯花）, you can call me yisui［i:suɪ].
   [![gitee](https://img.shields.io/badge/gitee-一穂灯花-red?style=flat-square&logo=gitee)](https://gitee.com/YisuiDenghua)
   
 </div>
+
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yisuidenghua&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yisuidenghua&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yisuidenghua&theme=github" />
+  </a>
+</div>
