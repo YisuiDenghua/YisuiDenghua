@@ -31,5 +31,6 @@ Hello, I'm YisuiDenghua（一穂灯花）, you can call me yisui［i:suɪ].
   [![Browser:Firefox](https://img.shields.io/badge/Browser-Firefox-red?style=flat-square&logo=firefox)](https://mozilla.org)
   [![DE:GNOME](https://img.shields.io/badge/DE-GNOME-darkblue?style=flat-square&logo=GNOME)](https://kde.org)
   [![DE:Plasma](https://img.shields.io/badge/DE-Plasma-lightblue?style=flat-square&logo=KDE)](https://gnome.org)
+  [![gitee](https://img.shields.io/badge/gitee-一穂灯花-red?style=flat-square&logo=gitee)](https://gitee.com/YisuiDenghua)
   
 </div>
