@@ -20,6 +20,7 @@ I'm YisuiDenghua（一穂灯花）, you can call me yisui［i:suɪ].
 - 🌱 I’m currently learning Mathematics, Nix, Python.
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 💬 Ask me about anything!
+- ⚡ Fun fact: 17 y.o. highschool student!
 
 <div align="center">
   
