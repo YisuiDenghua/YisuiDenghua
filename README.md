@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm YisuiDenghua（一穂灯花）, you can call me yisui［i:suɪ] or Sweetie.
+I'm YisuiDenghua（一穂灯花）, you can call me yisui［i:suɪ] or Milena.
 
 - 🌱 I’m currently learning Mathematics, Nix, Python.
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 💬 Ask me about anything!
-- ⚡ Fun fact: 17 y.o. highschool student!
+- ⚡ Fun fact: 17 y.o. student!
 
 <div align="center">
   
