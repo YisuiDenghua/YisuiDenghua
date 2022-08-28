@@ -20,17 +20,17 @@ I'm YisuiDenghua（一穂灯花）, you can call me yisui［i:suɪ] or Milena.
 - 🌱 I’m currently learning Mathematics, Nix, Python.
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 💬 Ask me about anything!
-- ⚡ Fun fact: 17 y.o. student!
+- ⚡ Fun fact: 18 y.o. student!
 
 <div align="center">
   
   [![OS:NixOS](https://img.shields.io/badge/OS-NixOS-blue?style=flat-square&logo=nixos)](https://nixos.org)
   [![OS:OpenBSD](https://img.shields.io/badge/OS-OpenBSD-yellow?style=flat-square&logo=openbsd)](https://openbsd.org)
-  [![OS:macOS](https://img.shields.io/badge/OS-macOS-black?style=flat-square&logo=apple)](https://www.apple.com/mac/)
+  [![OS:Arch Linux](https://img.shields.io/badge/OS-archlinux-black?style=flat-square&logo=archlinux)](https://archlinux.org/)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
   [![IDE:Emacs](https://img.shields.io/badge/IDE-Emacs-purple?style=flat-square&logo=emacs)](https://gnu.org/)
   [![Browser:Firefox](https://img.shields.io/badge/Browser-Firefox-red?style=flat-square&logo=firefox)](https://mozilla.org)
-  [![DE:GNOME](https://img.shields.io/badge/DE-GNOME-darkblue?style=flat-square&logo=GNOME)](https://gnome.org)
+  [![DE:Plasma](https://img.shields.io/badge/DE-Plasma-darkblue?style=flat-square&logo=KDE)](https://kde.org)
   [![gitee](https://img.shields.io/badge/gitee-一穂灯花-red?style=flat-square&logo=gitee)](https://gitee.com/YisuiDenghua)
   
 </div>
