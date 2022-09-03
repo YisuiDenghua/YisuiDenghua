@@ -22,6 +22,8 @@ I'm YisuiDenghua（一穂灯花）[一(i˧˥)穗(sue̠i˥˩)灯(təŋ˥)花(xu̟
 - 💬 Ask me about anything!
 - ⚡ Fun fact: 18 y.o. student!
 
+# 一剑千穗，灯里繁花。参上！
+
 <div align="center">
   
   [![OS:NixOS](https://img.shields.io/badge/OS-NixOS-blue?style=flat-square&logo=nixos)](https://nixos.org)
