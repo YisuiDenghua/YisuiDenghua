@@ -20,7 +20,7 @@ I'm YisuiDenghua（一穂灯花）[一(i˧˥)穗(sue̠i˥˩)灯(təŋ˥)花(xu̟
 - 🌱 I’m currently learning Mathematics, Nix, Python.
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 💬 Ask me about anything!
-- 📫 Blog: yisui.zyglq.cn
+- 📫 Blog: [yisui.zyglq.cn(https://yisui.zyglq.cn)]
 - ⚡ Fun fact: 18 y.o. student!
 
 # 一剑千穗，灯里繁花。参上！
