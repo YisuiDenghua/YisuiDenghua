@@ -17,12 +17,19 @@ Here are some ideas to get you started:
 
 I'm YisuiDenghua（一穂灯花）[一(i˧˥)穗(sue̠i˥˩)灯(təŋ˥)花(xu̟a˥)] , you can call me Yisui or Milena.
 
-- 🌱 I’m currently learning Mathematics, Nix, Python.
+- 🌱 I’m currently learning Mathematics, Nix, Python, C.
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 💬 Ask me about anything!
-- 📫 Blog: [yisui.zyglq.cn](https://yisui.zyglq.cn)
-- ❄️ NixOS Discourse : [YisuiDenghua](https://discourse.nixos.org/u/yisuidenghua)
+- 🌐 Blog (Chinese language): [yisui.zyglq.cn](https://yisui.zyglq.cn)
+- ❄️ NixOS Discourse: [YisuiDenghua](https://discourse.nixos.org/u/yisuidenghua)
 - ⚡ Fun fact: 18 y.o. student!
+- 📬 How to reach me: [e-mail](mailto:bileiner@gmail.com) / [Telegram](https://t.me/My_Names_YISUI)
+
+> Note: If you want to contact me via telegram, please send me the following sentence at first. Thanks!
+> ```
+> Nos pulvis sumus universi, qui clara gerimus astra.
+> ```
+> If you don't or your message does not contain the above sentence, I'm sorry that you'll be blocked from my telegram.
 
 # 一剑千穗，灯里繁花。参上！
 
