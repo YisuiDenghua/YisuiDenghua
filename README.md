@@ -20,7 +20,8 @@ I'm YisuiDenghua（一穂灯花）[一(i˧˥)穗(sue̠i˥˩)灯(təŋ˥)花(xu̟
 - 🌱 I’m currently learning Mathematics, Nix, Python.
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 💬 Ask me about anything!
-- 📫 Blog: [yisui.zyglq.cn(https://yisui.zyglq.cn)]
+- 📫 Blog: [yisui.zyglq.cn](https://yisui.zyglq.cn)
+- ❄️ NixOS Discourse : [YisuiDenghua](https://discourse.nixos.org/u/yisuidenghua)
 - ⚡ Fun fact: 18 y.o. student!
 
 # 一剑千穗，灯里繁花。参上！
@@ -31,9 +32,9 @@ I'm YisuiDenghua（一穂灯花）[一(i˧˥)穗(sue̠i˥˩)灯(təŋ˥)花(xu̟
   [![OS:OpenBSD](https://img.shields.io/badge/OS-OpenBSD-yellow?style=flat-square&logo=openbsd)](https://openbsd.org)
   [![OS:Gentoo](https://img.shields.io/badge/OS-Gentoo-pink?style=flat-square&logo=gentoo)](https://gentoo.org/)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
-  [![IDE:Emacs](https://img.shields.io/badge/IDE-Emacs-purple?style=flat-square&logo=emacs)](https://gnu.org/)
+  [![IDE:Emacs](https://img.shields.io/badge/IDE-Emacs-purple?style=flat-square&logo=Emacs)](https://gnu.org/)
   [![Browser:Firefox](https://img.shields.io/badge/Browser-Firefox-red?style=flat-square&logo=firefox)](https://mozilla.org)
-  [![DE:Plasma](https://img.shields.io/badge/DE-Plasma-darkblue?style=flat-square&logo=KDE)](https://kde.org)
+  [![DE:GNOME](https://img.shields.io/badge/DE-GNOME-darkblue?style=flat-square&logo=GNOME)](https://gnome.org)
   [![gitee](https://img.shields.io/badge/gitee-一穂灯花-red?style=flat-square&logo=gitee)](https://gitee.com/YisuiDenghua)
   
 </div>
