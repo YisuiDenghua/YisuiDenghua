@@ -29,7 +29,7 @@ I'm YisuiDenghua（一穂灯花）[一(i˧˥)穗(sue̠i˥˩)灯(təŋ˥)花(xu̟
 > ```
 > Nos pulvis sumus universi, qui clara gerimus astra.
 > ```
-> If you don't or your message does not contain the above sentence, I'm sorry that you'll be blocked from my telegram.
+> If you don't or your message does not contain the above sentence, I'm sorry that you  be blocked from my telegram.
 
 # 一剑千穗，灯里繁花。参上！
 
