@@ -20,7 +20,7 @@ I'm YisuiDenghua（一穂灯花）[一(i˧˥)穗(sue̠i˥˩)灯(təŋ˥)花(xu̟
 - 🌱 I’m currently learning Mathematics, Nix, Python, C.
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 💬 Ask me about anything!
-- 🌐 Blog (Chinese language): [yisui.zyglq.cn](https://yisui.zyglq.cn)
+- 🌐 Blog (Chinese language): [诺艾尔.我爱你](https://诺艾尔.我爱你)
 - ❄️ NixOS Discourse: [YisuiDenghua](https://discourse.nixos.org/u/yisuidenghua)
 - ⚡ Fun fact: 18 y.o. student!
 - 📬 How to reach me: [e-mail](mailto:bileiner@gmail.com) / [Telegram](https://t.me/My_Names_YISUI)
