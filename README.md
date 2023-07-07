@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm YisuiDenghua（一穂灯花）[一(i˧˥)穗(sue̠i˥˩)灯(təŋ˥)花(xu̟a˥)] , you can call me Yisui or Milena.
+I'm YisuiDenghua（一穂灯花）[i˧˥ sue̠i˥˩ təŋ˥ xu̟a˥] (Chinese) or [Kazuho Touka] (Japanese), you can call me Yisui, Touka or Milena.
+
 
 - 🌱 I’m currently learning Mathematics, Nix, Python, C.
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
@@ -23,6 +24,7 @@ I'm YisuiDenghua（一穂灯花）[一(i˧˥)穗(sue̠i˥˩)灯(təŋ˥)花(xu̟
 - 🌐 Blog (Chinese language): [诺艾尔.我爱你](https://诺艾尔.我爱你)
 - ❄️ NixOS Discourse: [YisuiDenghua](https://discourse.nixos.org/u/yisuidenghua)
 - ⛏ Minecraft ID: `My_Names_YISUI`
+- ❤️ I like Linux, BSD, Minecraft, Music, Cats.
 - ⚡ Fun fact: 18 y.o. student!
 - 📬 How to reach me: [e-mail](mailto:bileiner@gmail.com) / [Telegram](https://t.me/My_Names_YISUI)
 
