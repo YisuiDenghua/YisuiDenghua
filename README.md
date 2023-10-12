@@ -27,7 +27,7 @@ I'm YisuiDenghua（一穂灯花）[i˧˥ sue̠i˥˩ təŋ˥ xu̟a˥] (Chinese) o
 - ❄️ NixOS Discourse: [YisuiDenghua](https://discourse.nixos.org/u/yisuidenghua)
 - ⛏ Minecraft ID: `My_Names_YISUI`
 - ❤️ I like Linux, BSD, Minecraft, Music, Cats.
-- ⚡ Fun fact: I prefer calling myself "boku" than "watashi" when speaking Japanese.  ~~僕っ娘ですよ！~~
+- ⚡ Fun fact: I prefer calling myself "boku" than "watashi" when speaking Japanese.  ~~僕っ娘なのだ！~~
 - 📬 How to reach me: [e-mail](mailto:bileiner@gmail.com) / [Telegram](https://t.me/Kazuho_Touka)
 
 > Note: If you want to contact me via telegram, please send me the following sentence at first. Thanks!
