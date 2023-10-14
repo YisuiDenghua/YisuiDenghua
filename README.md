@@ -23,7 +23,7 @@ I'm YisuiDenghua（一穂灯花）[i˧˥ sue̠i˥˩ təŋ˥ xu̟a˥] (Chinese) o
 - 💬 Ask me about anything!
 - ⏳ Age: 19.
 - 👩‍🎓 Job: Student.
-- 🗣 Language(Spoken): English, Chinese, Japanese, Korean(North).
+- 🗣 Language(Spoken): English, Chinese(Mandarin), Japanese.
 - 🌐 Blog (Chinese language): [诺艾尔.我爱你](https://诺艾尔.我爱你)
 - ❄️ NixOS Discourse: [YisuiDenghua](https://discourse.nixos.org/u/yisuidenghua)
 - ⛏ Minecraft ID: `My_Names_YISUI`
