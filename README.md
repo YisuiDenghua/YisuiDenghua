@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm YisuiDenghua（一穂灯花）[i˧˥ sue̠i˥˩ təŋ˥ xu̟a˥] (Chinese) or [Kazuho Touka] (Japanese), you can call me Yisui, Touka or Milena.
+I'm YisuiDenghua（一穂灯花）[i˧˥ sue̠i˥˩ təŋ˥ xu̟a˥] (Chinese) or [Kazuho Touka] (Japanese), furthermore [Ilssi Deunghwa] (Korean) , you can call me Yisui, Touka or Milena.
 
 
 - 🌱 I’m currently learning Mathematics, Nix, Python, C.
@@ -23,6 +23,7 @@ I'm YisuiDenghua（一穂灯花）[i˧˥ sue̠i˥˩ təŋ˥ xu̟a˥] (Chinese) o
 - 💬 Ask me about anything!
 - ⏳ Age: 19.
 - 👩‍🎓 Job: Student.
+- 🗣 Language(Spoken): English, Chinese, Japanese, Korean(North).
 - 🌐 Blog (Chinese language): [诺艾尔.我爱你](https://诺艾尔.我爱你)
 - ❄️ NixOS Discourse: [YisuiDenghua](https://discourse.nixos.org/u/yisuidenghua)
 - ⛏ Minecraft ID: `My_Names_YISUI`
@@ -36,7 +37,7 @@ I'm YisuiDenghua（一穂灯花）[i˧˥ sue̠i˥˩ təŋ˥ xu̟a˥] (Chinese) o
 > ```
 > If you don't or your message does not contain the above sentence, I'm sorry that you might be blocked from my telegram.
 
-# 一剑千穗，灯里繁花。参上！
+# 一劍千穗，灯里繁花。参上！
 
 <div align="center">
   
