@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm YisuiDenghua（一穂灯花）[i˧˥ sue̠i˥˩ təŋ˥ xu̟a˥] (Chinese) or [Kazuho Touka] (Japanese), furthermore [Ilssi Deunghwa] (Korean) , you can call me Yisui, Touka or Milena.
+I'm YisuiDenghua（一穂灯花）[i˧˥ sue̠i˥˩ təŋ˥ xu̟a˥] (Chinese) or [Kazuho Touka] (Japanese), furthermore [Yilsu Deunghua] (Korean) , you can call me Yisui, Touka or Milena.
 
 
 - 🌱 I’m currently learning Mathematics, Nix, Python, C.
