@@ -21,12 +21,12 @@ I'm YisuiDenghua（一穂灯花）[i˧˥ sue̠i˥˩ təŋ˥ xu̟a˥] (Chinese) o
 - 🌱 I’m currently learning Mathematics, Nix, Python, C.
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 💬 Ask me about anything!
-- ⏳ Age: 19.
+- ⏳ Age: 21.
 - 👩‍🎓 Job: Student.
 - 🗣 Language(Spoken): English, Chinese(Mandarin), Japanese.
 - 🌐 Blog (Chinese language): [诺艾尔.我爱你](https://诺艾尔.我爱你) (currently not working)
 - ❄️ NixOS Discourse: [YisuiDenghua](https://discourse.nixos.org/u/yisuidenghua)
-- ⛏ Minecraft ID: `My_Names_YISUI`
+- ⛏ Minecraft ID: `KazuhoTouka`
 - ❤️ I like Linux, BSD, Minecraft, Music, Cats.
 - ⚡ Fun fact: btw i use computer.
 - 📬 How to reach me: [e-mail](mailto:bileiner@gmail.com) / [Telegram](https://t.me/Kazuho_Touka)
